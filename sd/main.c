@@ -1,3 +1,4 @@
+#define A 5000
 #include <stdio.h>
 #include <stdlib.h>
 int main()
